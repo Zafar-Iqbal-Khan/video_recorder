@@ -1,8 +1,5 @@
 # video_app
 
-# Hello sir 
-# i was not able to use getx in this project because of the complex ui and less time 
-# Thank You
 
 
 
